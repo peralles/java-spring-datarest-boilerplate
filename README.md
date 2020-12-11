@@ -1,2 +1,2 @@
-# java-spring-datarest-boilerplate
+# java-spring-restapi-boilerplate
 A Spring Data Rest Boiler Plate
